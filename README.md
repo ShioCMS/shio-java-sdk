@@ -1,1 +1,1 @@
-# shiohara-java-sdk
+# shio-java-sdk

@@ -43,7 +43,4 @@ dependencies {
     
     // Log4J
     compile group: 'log4j', name: 'log4j', version: "${log4jVersion}"
-    
-    // HTTP Client
-    compile group: 'org.apache.httpcomponents', name: 'httpclient', version:"${httpClientVersion}"
 }
